@@ -1,6 +1,6 @@
 services:
   details:
     build: .
-    image: ghcr.io/jirasn46033/bookinfo-details:dev
+    image: ghcr.io/jirasin46033/bookinfo-details:dev
     ports:
       - "9080:9080"
